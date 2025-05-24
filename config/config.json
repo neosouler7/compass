@@ -1,0 +1,32 @@
+{
+    "Name": "compass local",
+    "Tg": {
+        "token": "",
+        "chat_ids": []
+    },
+    "Pairs": {
+        "upb": {
+            "krw": ["btc:0.1", "eth:1", "xrp:1000", "usdt:500", "sol:50"]
+        },
+        "kbt": {
+            "krw": ["btc:0.1", "eth:1", "xrp:1000", "usdt:500", "sol:50"]
+        },
+        "bmb": {
+            "krw": ["btc:0.1", "eth:1", "xrp:1000", "usdt:500", "sol:50"]
+        }
+    },
+    "Pairs2": {
+        "upb": {
+            "krw": ["btc:0.1", "eth:1", "xrp:1000"]
+        },
+        "kbt": {
+            "krw": ["btc:0.1", "eth:1", "xrp:1000"]
+        },
+        "bmb": {
+            "krw": ["btc:0.1", "eth:1", "xrp:1000"]
+        },
+        "con": {
+            "krw": ["btc:0.1", "eth:1", "xrp:1000"]
+        }
+    }
+}
